@@ -46,7 +46,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 006 Snapshot](react-task-tracker.gif)
+![Project 006 Snapshot](random-user-app.gif)
 
 ## Objective
 
